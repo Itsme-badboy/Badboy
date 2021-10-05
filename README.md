@@ -12,6 +12,5 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Itsme-badboy/Badboy
-cd wabot-aq
-npm install
-npm update
+cd Badboy
+node main.js
