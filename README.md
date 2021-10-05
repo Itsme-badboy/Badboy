@@ -1,6 +1,8 @@
 # Badboy
 WhatsApp bot
 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-badboy/Badboy)
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itsme-badboy/Badboy)
 
 ## FOR TERMUX/UBUNTU/SSH USER
