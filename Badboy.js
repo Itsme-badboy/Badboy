@@ -1227,7 +1227,7 @@ wa.me/${owner}`
               addCmd(kodenya, q)
               textImg("Done!")
               } else {
-              reply('*Reply To Sticker*')
+              reply('*ഒരു സ്റ്റിക്കർ മെൻഷൻ ചെയ്*')
               }
               break
        case 'delcmd':
@@ -1572,7 +1572,7 @@ break
 					break
                case 'take':
               case 'colong':
-                    if (!isQuotedSticker) return reply('*Just a sticker*')
+                    if (!isQuotedSticker) return reply('*ഒരു സ്റ്റിക്കർ മെൻഷൻ ചെയ്*')
                     encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 		            media = await badboy.downloadAndSaveMediaMessage(encmedia)
                     anu = args.join(' ').split('|')
@@ -1961,7 +1961,7 @@ break
                         break
       case 'toimg':
       case 'photo':
-              if (!isQuotedSticker) return reply('*Reply To Sticker*')
+              if (!isQuotedSticker) return reply('*ഒരു സ്റ്റിക്കർ മെൻഷൻ ചെയ്*')
               encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
               media = await badboy.downloadAndSaveMediaMessage(encmedia)
               ran = getRandom('.png')
@@ -2793,7 +2793,7 @@ case 'emoji':
 					badboy.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "mentionedJid": imagi } })
 					break
               case 'addsticker':
-					if (!isQuotedSticker) return reply('*Reply To Sticker*')
+					if (!isQuotedSticker) return reply('*ഒരു സ്റ്റിക്കർ മെൻഷൻ ചെയ്*')
 					nm = body.slice(12)
 					if (!nm) return reply('*Sticker Name?*')
 					boij = JSON.parse(JSON.stringify(mek).replace('quotedM', 'm')).message.extendedTextMessage.contextInfo
@@ -2801,7 +2801,7 @@ case 'emoji':
 					setik.push(`${nm}`)
 					fs.writeFileSync(`./media/sticker/${nm}.webp`, delb)
 					fs.writeFileSync('./database/setik.json', JSON.stringify(setik))
-					badboy.sendMessage(from, `*Sticker Added*`, MessageType.text, { quoted: mek })
+					badboy.sendMessage(from, `*സ്റ്റിക്കർ ആഡ് ചെയ്തു*`, MessageType.text, { quoted: mek })
 					break
 				case 'delsticker':
 					try {
