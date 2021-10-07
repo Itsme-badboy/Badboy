@@ -3244,7 +3244,7 @@ if (Number(oi2) >= 50) return reply('*Most!*')
          if (!isGroupAdmins) return reply(mess.only.admin)
           json = ['action', 'inviteReset', from]
          badboy.query({json, expect200: true})
-          reply('*Succes Reset Group Link*')
+          reply('*ഗ്രൂപ്പ് ലിങ്ക് റീസെറ്റ് ചെയ്തു*')
          break
      case 'tagme':
                   var nomqm = mek.participant
