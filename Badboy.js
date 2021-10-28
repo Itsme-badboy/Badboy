@@ -967,43 +967,43 @@ const ftrol = {
 
 
 ■ ${prefix}clearall
-
+□
 ■ ${prefix}tobc
-
+□
 ■ ${prefix}bc
-
+□
 ■ ${prefix}getquoted
-
+□
 ■ ${prefix}restart
-
+□
 ■ ${prefix}term
-
+□
 ■ ${prefix}block
-
+□
 ■ ${prefix}unblock
-
+□
 ■ ${prefix}leaveall
-
+□
 ■ ${prefix}addcmd
-
+□
 ■ ${prefix}delcmd
-
+□
 ■ ${prefix}jadibot
-
+□
 ■ ${prefix}listjadibot
-
+□
 ■ ${prefix}stopjadibot
-
+□
 ■ ${prefix}exif
-
+□
 ■ ${prefix}join
-
+□
 ■ ${prefix}return
-
+□
 ■ ${prefix}public
-
+□
 ■ ${prefix}self
-
+□
 ■ ${prefix}readall
 `
 catlo(owner1)
@@ -1014,31 +1014,31 @@ catlo(owner1)
  
 
 ■ ${prefix}add
-
+□
 ■ ${prefix}kick
-
+□
 ■ ${prefix}promote
-
+□
 ■ ${prefix}demote
-
+□
 ■ ${prefix}disappear
-
+□
 ■ ${prefix}group
-
+□
 ■ ${prefix}antilink
-
+□
 ■ ${prefix}totag
-
+□
 ■ ${prefix}hidetag
-
+□
 ■ ${prefix}translate
-
+□
 ■ ${prefix}getdeskgc
-
+□
 ■ ${prefix}getbio
-
+□
 ■ ${prefix}getpp
-
+□
 ■ ${prefix}getname
 `
 catlo(group1)
@@ -1049,47 +1049,47 @@ catlo(group1)
 
 
 ■ ${prefix}secvn
-
+□
 ■ ${prefix}secvideo
-
+□
 ■ ${prefix}tomp3
-
+□
 ■ ${prefix}tomp4
-
+□
 ■ ${prefix}toimg
-
+□
 ■ ${prefix}baby
-
+□
 ■ ${prefix}bass
-
+□
 ■ ${prefix}reverse
-
+□
 ■ ${prefix}slow
-
+□
 ■ ${prefix}squirrel
-
+□
 ■ ${prefix}blub
-
+□
 ■ ${prefix}fat
-
+□
 ■ ${prefix}imagetourl
-
+□
 ■ ${prefix}voice
-
+□
 ■ ${prefix}nightcore
-
+□
 ■ ${prefix}cm
-
+□
 ■ ${prefix}fast
-
+□
 ■ ${prefix}gemes
-
+□
 ■ ${prefix}slowvid
-
+□
 ■ ${prefix}fastvid
- 
+□
 ■ ${prefix}reversevid
-
+□
 ■ ${prefix}tts
 `
 catlo(edit1)
@@ -1100,27 +1100,27 @@ catlo(edit1)
 
 
 ■ ${prefix}addvn
-
+□
 ■ ${prefix}addvideo
-
+□
 ■ ${prefix}addimage
-
+□
 ■ ${prefix}addsticker
-
+□
 ■ ${prefix}listvn
-
+□
 ■ ${prefix}listvideo
-
+□
 ■ ${prefix}listimage
-
+□
 ■ ${prefix}liststicker
-
+□
 ■ ${prefix}delvn
-
+□
 ■ ${prefix}delvideo
-
+□
 ■ ${prefix}delimage
-
+□
 ■ ${prefix}delsticker
 
 `
@@ -1132,15 +1132,15 @@ catlo(storage1)
 
 
 ■ ${prefix}chat
-
+□
 ■ ${prefix}fitnahpc
-
+□
 ■ ${prefix}contact
-
+□
 ■ ${prefix}forward
-
+□
 ■ ${prefix}forwardvideo
-
+□
 ■ ${prefix}forwardaudio
 `
  catlo(extra1)
@@ -1150,47 +1150,47 @@ catlo(storage1)
 🌹 𝑫 𝑶 𝑾 𝑵 𝑳 𝑶 𝑨 𝑫 - 𝑴 𝑬 𝑵 𝑼 🌹 
 
 ■ ${prefix}play
-
+□
 ■ ${prefix}ytmp3
-
+□
 ■ ${prefix}ytmp4
-
+□
 ■ ${prefix}igdl
-
+□
 ■ ${prefix}ytsearch
-
+□
 ■ ${prefix}igstory
-
+□
 ■ ${prefix}scplay
-
+□
 ■ ${prefix}pinterest
-
+□
 ■ ${prefix}telesticker
-
+□
 ■ ${prefix}githubsearch
-
+□
 ■ ${prefix}googleimage
-
+□
 ■ ${prefix}ytdesk
-
+□
 ■ ${prefix}lyric
-
+□
 ?? ${prefix}playstore
-
+□
 ■ ${prefix}mediafire
-
+□
 ■ ${prefix}fb
-
+□
 ■ ${prefix}tiktoknown
-
+□
 ■ ${prefix}tiktokaudio
-
+□
 ■ ${prefix}tiktokdl
-
+□
 ■ ${prefix}twitter
-
+□
 ■ ${prefix}tinyurl
-
+□
 ■ ${prefix}google
 ` 
 catlo(download1)
