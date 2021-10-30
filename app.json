@@ -1,9 +1,9 @@
 {
-  "name": "Badboy",
+"name": "BADBOTZ",
   "description": "Lightweight WhatsApp Bot",
-  "repository": "https://github.com/Itsme-badboy/Badboy",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+  "repository": "https://github.com/Itsme-badboy/Queen-Alexa",
+  "logo": "https://www.linkpicture.com/q/HYPER-MOD-LOGO.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"],
 
     "buildpacks": [
 
