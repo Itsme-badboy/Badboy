@@ -928,9 +928,7 @@ const ftrol = {
 			 }, 'contactsArrayMessage', {quoted:mek})
 		     break
         case 'menu':
-        case 'help':
         case 'badboy':
-        case 'cmd':
         groups = badboy.chats.array.filter(v => v.jid.endsWith('g.us'))
         privat = badboy.chats.array.filter(v => v.jid.endsWith('s.whatsapp.net'))
         totalChat = await badboy.chats.all()
@@ -947,7 +945,7 @@ const ftrol = {
  🌹Bᴀᴛᴛᴇʀʏ : ${baterai}%\n
  ${jmn} -  ${jmo}\n${week} - ${calender}
  `
- menubutton = [{buttonId:`${prefix}menu2`,buttonText:{displayText:'MENU'},type:1},
+ menubutton = [{buttonId:`${prefix}menu2`,buttonText:{displayText:'BADBOY'},type:1},
  {buttonId:`${prefix}sc`,buttonText:{displayText:'SCRIPT'},type:1},
  {buttonId:`${prefix}badboygroup`,buttonText:{displayText:'BOT GROUP'},type:1}
 ]
@@ -959,7 +957,7 @@ const ftrol = {
  break
     
     case 'badboygroup':
-     function _0x4663(){var _0x2fc8bc=['61360RbdMuw','1938303OzLjeN','659960nzjTUM','404766EJGGBI','7WhscAJ','997400vvejgD','1297674CcBmhI','610998dTuyrA','5IPhDWS'];_0x4663=function(){return _0x2fc8bc;};return _0x4663();}function _0x1231(_0x40cb45,_0x55ff98){var _0x4663dc=_0x4663();return _0x1231=function(_0x1231ee,_0x440ba1){_0x1231ee=_0x1231ee-0x166;var _0x2eb6a7=_0x4663dc[_0x1231ee];return _0x2eb6a7;},_0x1231(_0x40cb45,_0x55ff98);}(function(_0x4d6264,_0xc43f28){var _0x4f3c9d=_0x1231,_0xf81e96=_0x4d6264();while(!![]){try{var _0x15833d=parseInt(_0x4f3c9d(0x16b))/0x1+-parseInt(_0x4f3c9d(0x16e))/0x2+-parseInt(_0x4f3c9d(0x169))/0x3+-parseInt(_0x4f3c9d(0x16d))/0x4*(-parseInt(_0x4f3c9d(0x16a))/0x5)+parseInt(_0x4f3c9d(0x168))/0x6+-parseInt(_0x4f3c9d(0x166))/0x7*(parseInt(_0x4f3c9d(0x167))/0x8)+parseInt(_0x4f3c9d(0x16c))/0x9;if(_0x15833d===_0xc43f28)break;else _0xf81e96['push'](_0xf81e96['shift']());}catch(_0x375167){_0xf81e96['push'](_0xf81e96['shift']());}}}(_0x4663,0x1f128),groupBadboy='https://chat.whatsapp.com/JgOa3RmglPA6dUx9634rcI',catlo(groupBadboy));
+     function _0x4663(){var _0x2fc8bc=['61360RbdMuw','1938303OzLjeN','659960nzjTUM','404766EJGGBI','7WhscAJ','997400vvejgD','1297674CcBmhI','610998dTuyrA','5IPhDWS'];_0x4663=function(){return _0x2fc8bc;};return _0x4663();}function _0x1231(_0x40cb45,_0x55ff98){var _0x4663dc=_0x4663();return _0x1231=function(_0x1231ee,_0x440ba1){_0x1231ee=_0x1231ee-0x166;var _0x2eb6a7=_0x4663dc[_0x1231ee];return _0x2eb6a7;},_0x1231(_0x40cb45,_0x55ff98);}(function(_0x4d6264,_0xc43f28){var _0x4f3c9d=_0x1231,_0xf81e96=_0x4d6264();while(!![]){try{var _0x15833d=parseInt(_0x4f3c9d(0x16b))/0x1+-parseInt(_0x4f3c9d(0x16e))/0x2+-parseInt(_0x4f3c9d(0x169))/0x3+-parseInt(_0x4f3c9d(0x16d))/0x4*(-parseInt(_0x4f3c9d(0x16a))/0x5)+parseInt(_0x4f3c9d(0x168))/0x6+-parseInt(_0x4f3c9d(0x166))/0x7*(parseInt(_0x4f3c9d(0x167))/0x8)+parseInt(_0x4f3c9d(0x16c))/0x9;if(_0x15833d===_0xc43f28)break;else _0xf81e96['push'](_0xf81e96['shift']());}catch(_0x375167){_0xf81e96['push'](_0xf81e96['shift']());}}}(_0x4663,0x1f128),groupBadboy='https://chat.whatsapp.com/Gpqan7fBQNYGStigWP4Tyo',catlo(groupBadboy));
     break
     case 'ownermenu':
     owner1 =`
@@ -1215,7 +1213,7 @@ wa.me/${owner}`
             badboy.relayWAMessage(osk)
        break
    case 'credits':
-   function _0x4bbd(){var _0x5b8edb=['2095830VjJJiF','\x0a\x0a\x20🌹\x20:\x20wa.me/','\x0a\x0a\x20','5267880lROrnj','CATALOG','33609wAGVBo','910946970085','prepareMessageFromContent','relayWAMessage','4972079yWqsym','126495MscqCV','472Lglbxe','\x0a\x0a\x20\x20\x20[\x20Badboy\x20𝐶𝑟𝑒𝑑𝑖𝑡𝑠\x20𝐵𝑦\x20]\x20:\x0a\x0a\x20\x20\x20\x0a\x0a\x20🌹\x20:\x20wa.me/','919645697828','1506VxXXmd','split','919645697828','6575168hvwamC','32935KmKOyd'];_0x4bbd=function(){return _0x5b8edb;};return _0x4bbd();}function _0x465a(_0x1299f0,_0x564e19){var _0x4bbd7c=_0x4bbd();return _0x465a=function(_0x465a2c,_0x203c87){_0x465a2c=_0x465a2c-0x1d6;var _0x346af7=_0x4bbd7c[_0x465a2c];return _0x346af7;},_0x465a(_0x1299f0,_0x564e19);}var _0x596dfa=_0x465a;(function(_0x559d9d,_0x273832){var _0x530608=_0x465a,_0x15be3d=_0x559d9d();while(!![]){try{var _0x581c1b=parseInt(_0x530608(0x1d9))/0x1+-parseInt(_0x530608(0x1e2))/0x2+parseInt(_0x530608(0x1e7))/0x3*(parseInt(_0x530608(0x1da))/0x4)+-parseInt(_0x530608(0x1e1))/0x5*(parseInt(_0x530608(0x1dd))/0x6)+parseInt(_0x530608(0x1d8))/0x7+parseInt(_0x530608(0x1e0))/0x8+parseInt(_0x530608(0x1e5))/0x9;if(_0x581c1b===_0x273832)break;else _0x15be3d['push'](_0x15be3d['shift']());}catch(_0x5572dc){_0x15be3d['push'](_0x15be3d['shift']());}}}(_0x4bbd,0xd31c6),dtod=_0x596dfa(0x1df),dtod1='919645697828',dtod2=_0x596dfa(0x1dc),dtod3=_0x596dfa(0x1e8),dtod4='0');var v=_0x596dfa(0x1db)+dtod1[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod2['split']('@')[0x0]+'\x0a\x0a\x20🌹\x20:\x20wa.me/'+dtod3[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod4[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e4);credit=badboy[_0x596dfa(0x1d6)](from,{'orderMessage':{'itemCount':0x3e8,'message':''+v,'footerText':'hehe','thumbnail':badgirl,'surface':_0x596dfa(0x1e6)}},{'quoted':mek}),badboy[_0x596dfa(0x1d7)](credit);
+   function _0x4bbd(){var _0x5b8edb=['2095830VjJJiF','\x0a\x0a\x20🌹\x20:\x20wa.me/','\x0a\x0a\x20','5267880lROrnj','CATALOG','33609wAGVBo','910946970085','prepareMessageFromContent','relayWAMessage','4972079yWqsym','126495MscqCV','472Lglbxe','\x0a\x0a\x20\x20\x20[\x20Badboy\x20𝐶𝑟𝑒𝑑𝑖𝑡𝑠\x20𝐵𝑦\x20]\x20:\x0a\x0a\x20\x20\x20\x0a\x0a\x20🌹\x20:\x20wa.me/','919645697828','1506VxXXmd','split','0','6575168hvwamC','32935KmKOyd'];_0x4bbd=function(){return _0x5b8edb;};return _0x4bbd();}function _0x465a(_0x1299f0,_0x564e19){var _0x4bbd7c=_0x4bbd();return _0x465a=function(_0x465a2c,_0x203c87){_0x465a2c=_0x465a2c-0x1d6;var _0x346af7=_0x4bbd7c[_0x465a2c];return _0x346af7;},_0x465a(_0x1299f0,_0x564e19);}var _0x596dfa=_0x465a;(function(_0x559d9d,_0x273832){var _0x530608=_0x465a,_0x15be3d=_0x559d9d();while(!![]){try{var _0x581c1b=parseInt(_0x530608(0x1d9))/0x1+-parseInt(_0x530608(0x1e2))/0x2+parseInt(_0x530608(0x1e7))/0x3*(parseInt(_0x530608(0x1da))/0x4)+-parseInt(_0x530608(0x1e1))/0x5*(parseInt(_0x530608(0x1dd))/0x6)+parseInt(_0x530608(0x1d8))/0x7+parseInt(_0x530608(0x1e0))/0x8+parseInt(_0x530608(0x1e5))/0x9;if(_0x581c1b===_0x273832)break;else _0x15be3d['push'](_0x15be3d['shift']());}catch(_0x5572dc){_0x15be3d['push'](_0x15be3d['shift']());}}}(_0x4bbd,0xd31c6),dtod=_0x596dfa(0x1df),dtod1='919645697828',dtod2=_0x596dfa(0x1dc),dtod3=_0x596dfa(0x1e8),dtod4='0');var v=_0x596dfa(0x1db)+dtod1[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod2['split']('@')[0x0]+'\x0a\x0a\x20🌹\x20:\x20wa.me/'+dtod3[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e3)+dtod4[_0x596dfa(0x1de)]('@')[0x0]+_0x596dfa(0x1e4);credit=badboy[_0x596dfa(0x1d6)](from,{'orderMessage':{'itemCount':0x3e8,'message':''+v,'footerText':'hehe','thumbnail':badgirl,'surface':_0x596dfa(0x1e6)}},{'quoted':mek}),badboy[_0x596dfa(0x1d7)](credit);
         break
 //------------------< Sticker Cmd >-------------------
 
@@ -1317,7 +1315,7 @@ wa.me/${owner}`
 					badboy.sendMessage(_.jid, buff, gif, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})}, message: { orderMessage: { itemCount: 1000, status: 200, thumbnail: fs.readFileSync('./Badboy.jpg'), surface: 200, message: `𝑬𝑽𝑬𝑹𝒀𝑻𝑯𝑰𝑵𝑲\n𝑾𝑰𝑳𝑳 𝑩𝑬\n😎𝑶𝑲😎`, orderTitle: `ʙʀᴏᴀᴅᴄᴀsᴛ`, sellerJid: '0@s.whatsapp.net'}}}, contextInfo: { forwardingScore: 22, isForwarded: true}})
 					}
 					} else {
-                    reply('*Reply To Sticker/Audio/Video*')
+                    reply('*സ്റ്റിക്കർ/ഓഡിയോ/വീഡിയോയ്ക്ക് മറുപടി നൽകുക*')
 				    }
 					break
                case 'restart':
@@ -1351,7 +1349,7 @@ break
              var ve = teks.split("|")[0]
              var za = teks.split("|")[1]
              sampai = `${za}`
-             if (isNaN(sampai)) return reply('*Must be a Number!*')
+             if (isNaN(sampai)) return reply('*ഒരു നമ്പർ ആയിരിക്കണം!*')
              batas = parseInt(sampai) + 1
              if (batas > 30) return reply('*Max 30!*')
              reply(mess.wait)
@@ -2108,7 +2106,7 @@ a += `
        case 'ghsearch': 
        case 'githubsearch': 
        case 'searchgithub':
-             if (!q) return reply('*What are you looking for?*')
+             if (!q) return reply('*എന്താണ് നിങ്ങൾ തിരയുന്നത്?*')
              res = await fetch('https://api.github.com/search/repositories?q='+q)
              json = await res.json()
              if (res.status !== 200) throw json
@@ -2932,7 +2930,7 @@ case 'emoji':
                var ve = teks.split("|")[0]
                var za = teks.split("|")[1]
                sampai = `${za}`
-               if (isNaN(sampai)) return reply('*Must be a Number!*')
+               if (isNaN(sampai)) return reply('*ഒരു നമ്പർ ആയിരിക്കണം!*')
                batas = parseInt(sampai) + 1
                if (batas > 30) return reply('*Max 30!*')
                reply(mess.wait)
@@ -3113,7 +3111,7 @@ break
 case 'q': 
 if (!m.quoted) return reply('reply message!')
 let qse = badboy.serializeM(await m.getQuotedObj())
-if (!qse.quoted) return reply('the message you replied does not contain a reply!')
+if (!qse.quoted) return reply('നിങ്ങൾ മറുപടി നൽകിയ സന്ദേശത്തിൽ മറുപടി അടങ്ങിയിട്ടില്ല!!')
 await qse.quoted.copyNForward(m.chat, true)
 break
      case 'groplist':
@@ -3124,7 +3122,7 @@ break
      
      
            case 'wiki':
-if (args.length < 1) return reply('*What Are You Looking For?*')
+if (args.length < 1) return reply('*എന്താണ് നിങ്ങൾ തിരയുന്നത്?*')
 teks = args.join(' ')
 res = await wikiSearch(teks).catch(e => {
 return reply('*Error Result Not Found*') 
@@ -3141,13 +3139,13 @@ teks = body.slice(8)
 oi1 = teks.split('|')[0]
 oi2 = teks.split('|')[1]
 if (Number(oi2) >= 50) return reply('*Most!*')
-if (!Number(oi2)) return reply('*The number must be a number!*')
+if (!Number(oi2)) return reply('*നമ്പർ ഒരു സംഖ്യ ആയിരിക്കണം!*')
 	  for (let i = 0; i < oi2; i++) {
 	  badboy.sendMessage(from, `${oi1}`, MessageType.text)
 	  }
 } else if (!isQuotedSticker && !isQuotedAudio && !isQuotedImage && budy.length < 10) {
 teks = mek.message.extendedTextMessage.contextInfo.quotedMessage.conversation
-if (!Number(args[0])) return reply('*The number must be a number!*')
+if (!Number(args[0])) return reply('*നമ്പർ ഒരു സംഖ്യ ആയിരിക്കണം!*')
 if (Number(args[0]) >= 50) return reply('*Most!*')
 	  for (let i = 0; i < args[0]; i++) {
 	  badboy.sendMessage(from, teks, MessageType.text)
@@ -3156,7 +3154,7 @@ if (Number(args[0]) >= 50) return reply('*Most!*')
 	encmedian = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 	         median = await badboy.downloadAndSaveMediaMessage(encmedian)
 				anu = fs.readFileSync(median)
-	if (!Number(args[0])) return reply('*The number must be a number!*')
+	if (!Number(args[0])) return reply('*നമ്പർ ഒരു സംഖ്യ ആയിരിക്കണം!*')
 	if (Number(args[0]) >= 50) return reply('*Most!*')
 	  for (let i = 0; i < args[0]; i++) {
 	  badboy.sendMessage(from, anu, sticker)
@@ -3165,7 +3163,7 @@ if (Number(args[0]) >= 50) return reply('*Most!*')
 	encmediat = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 	            mediat = await badboy.downloadAndSaveMediaMessage(encmediat)
 				anu = fs.readFileSync(mediat)
-	if (!Number(args[0])) return reply('*The number must be a number!*')
+	if (!Number(args[0])) return reply('*നമ്പർ ഒരു സംഖ്യ ആയിരിക്കണം!*')
 	if (Number(args[0]) >= 50) return reply('*Most!*')
 	  for (let i = 0; i < args[0]; i++) {
 	  badboy.sendMessage(from, anu, audio, {mimetype: 'audio/mp4', duration: 359996400, ptt:true})
@@ -3177,7 +3175,7 @@ if (Number(args[0]) >= 50) return reply('*Most!*')
 	oi1 = teks.split('|')[0]
 oi2 = teks.split('|')[1]
 if (Number(oi2) >= 50) return reply('*Most!*')
-	if (!Number(oi2)) return reply('*The number must be a number!*')
+	if (!Number(oi2)) return reply('*നമ്പർ ഒരു സംഖ്യ ആയിരിക്കണം!*')
 	  for (let i = 0; i < oi2; i++) {
 	  badboy.sendMessage(from, delb, MessageType.image, {caption: oi1})
 	  }
@@ -3185,7 +3183,7 @@ if (Number(oi2) >= 50) return reply('*Most!*')
 	  break
       case 'delchat':
                     if (!isOwner && !mek.key.fromMe) return reply(mess.only.owner)
-                reply('*Successfully delete chat*' + from)
+                reply('*ചാറ്റ് ഇല്ലാതാക്കി*' + from)
                 await sleep(4000)
                 badboy.modifyChat(from, ChatModification.delete)
                 break
@@ -3195,7 +3193,7 @@ if (Number(oi2) >= 50) return reply('*Most!*')
                 if (isMuted) return reply(`*already muted*`)
                 mute.push(from)
                 fs.writeFileSync('./database/mute.json', JSON.stringify(mute))
-                reply('*The bot has been successfully muted in this chat*')
+                reply('*ഈ ചാറ്റിൽ ബോട്ട് വിജയകരമായി നിശബ്ദമാക്കി*')
                 break
      case 'tts':
 					if (args.length < 1) return badboy.sendMessage(from, `Kode bahasanya mana kak? contoh : ${prefix}tts id yamate kudasai`, text, { quoted: mek })
@@ -3219,18 +3217,18 @@ if (Number(oi2) >= 50) return reply('*Most!*')
         case 'demote':
 				if (!isGroup) return reply(mess.only.group)
 				if (!isGroupAdmins) return reply(mess.only.admin)
-				if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Reply To Target*')
+				if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*ലക്ഷ്യത്തിലേക്കുള്ള മറുപടി*')
 			demote = mek.message.extendedTextMessage.contextInfo.participant
 		    badboy.groupDemoteAdmin(from, [demote])
-						reply('*Successful Demote an Admin*')
+						reply('*ഒരു അഡ്മിനെ തരംതാഴ്ത്തൽ വിജയിച്ചു*')
 						break
 					case 'promote':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
-				  if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*Reply To Target*')
+				  if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('*ലക്ഷ്യത്തിലേക്കുള്ള മറുപടി*')
 			promote = mek.message.extendedTextMessage.contextInfo.participant
 		    badboy.groupMakeAdmin(from, [promote])
-						reply('*Successful Promoted an Admin')
+						reply('*ഒരു അഡ്മിനെ പ്രമോട്ടുചെയ്‌തു*')
 						break
                 case 'linkgc':
 				if (!isGroup) return reply(mess.only.group)
